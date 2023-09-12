@@ -12,8 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hadichouaieb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hadichouaieb" height="30" width="40" /></a>
-
-<a href="hadichouaieb20@gmail.com" target="blank"><img align="center" src="https://tadviser.com/images/thumb/5/5e/GMail_LOGO_02.png/840px-GMail_LOGO_02.png" alt="hadichouaieb" height="30" width="40" /></a>
+</p>
+<p align="right">
+<a href="hadichouaieb20@gmail.com" target="blank"><img align="center" src="https://tadviser.com/images/thumb/5/5e/GMail_LOGO_02.png/840px-GMail_LOGO_02.png" alt="hadichouaieb" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
