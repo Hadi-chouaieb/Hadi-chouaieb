@@ -1,15 +1,11 @@
 ![logo](https://github.com/Hadi-chouaieb/Hadi-chouaieb/blob/main/hadi.png)
 <h1 align="center">Hi , I'm Hadi</h1>
 
-<style>
-  .ved{
-  border-raduis:20px;
-  box-shadow:1px 4px 5px black;
-  }
-</style>
+
 
 <h3 align="center">A passionate Web developer from Tunisia</h3>
-<img src='https://media.tenor.com/eel18OEN2gIAAAAd/hacker-computer.gif' width='400' alt='Coding Image' align='right' class='ved'>
+<img src='https://media.tenor.com/eel18OEN2gIAAAAd/hacker-computer.gif' width='400' alt='Coding Image' align='right' class='ved' style="border-raduis:20px;
+  box-shadow:1px 4px 5px black;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi-chouaieb&label=Profile%20views&color=0e75b6&style=flat" alt="hadi-chouaieb" /> </p>
 
