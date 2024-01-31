@@ -1,4 +1,4 @@
-![logo](https://github.com/Hadi-chouaieb/Hadi-chouaieb/blob/main/hadi.png)
+![logo](https://github.com/Hadi-chouaieb/Hadi-chouaieb/blob/main/cover.png)
 <h1 align="center">Hi , I'm Hadi</h1>
 
 
