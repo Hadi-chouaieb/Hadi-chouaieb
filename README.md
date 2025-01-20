@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Hadi-chouaieb/Hadi-chouaieb/blob/main/cover.png" alt="Banner" style="width:100%; max-width:800px; border-radius:10px; box-shadow:0px 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/Hadi-chouaieb/Hadi-chouaieb/blob/main/banner.png" alt="Banner" style="width:100%; max-width:800px; border-radius:10px; box-shadow:0px 4px 8px rgba(0, 0, 0, 0.2);">
     <h1>Hi, I'm Hadi 👋</h1>
     <h3>A Passionate Web Developer from Tunisia 🇹🇳</h3>  </div>
   
