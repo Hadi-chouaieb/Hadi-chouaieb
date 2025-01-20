@@ -95,14 +95,4 @@
   <p>Feel free to reach out for collaborations, projects, or just a friendly chat! 😄</p>
 </div>
 
----
 
-### Key Enhancements:
-1. **Added GitHub Followers and Stars Badges**: To showcase your GitHub presence.
-2. **Included Twitter and Instagram Links**: For more ways to connect.
-3. **Added More Tools**: Included React, Redux, and Tailwind CSS in the tools section.
-4. **GitHub Trophies Section**: To display your achievements.
-5. **Featured Projects Section**: Highlighting your top repositories with links.
-6. **Improved Visuals**: Better alignment, spacing, and consistency in design.
-
-Let me know if you'd like further customization! 😊
